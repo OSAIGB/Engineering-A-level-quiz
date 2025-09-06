@@ -1,0 +1,5 @@
+{
+  "name": "Engineering Quiz Challenge",
+  "description": "A comprehensive quiz application for engineering students covering Chemistry, Mathematics, Physics, and English. Test your knowledge against a one-hour timer and see your score.",
+  "requestFramePermissions": []
+}
